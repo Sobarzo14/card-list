@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@lrnwebcomponents/meme-maker": "^4.1.0",
+    "class-building-card": "^0.0.0",
     "lit": "^2.0.2",
     "special-character-card-2023-ist26-hax-the-web": "^1.1.2"
   },
